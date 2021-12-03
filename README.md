@@ -1,4 +1,4 @@
 # simple maven-project
 
-wait to be polled
+now we can started the configuration of maven project
  
